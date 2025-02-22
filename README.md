@@ -79,11 +79,11 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 More about Cosine Similarity : [Understanding the Math behind Cosine Similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/)
 
 ## Sources of the datasets
-1. IMDB 5000 Movie Datasethttps://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
-2. The Movies Datasethttps://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
-3. List of movies in 2018https://en.wikipedia.org/wiki/List_of_American_films_of_2018
-4. List of movies in 2019https://en.wikipedia.org/wiki/List_of_American_films_of_2019
-5. List of movies in 2020https://en.wikipedia.org/wiki/List_of_American_films_of_2020
+1. IMDB 5000 Movie Dataset(https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
+2. The Movies Dataset(https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
+3. List of movies in 2018(https://en.wikipedia.org/wiki/List_of_American_films_of_2018)
+4. List of movies in 2019(https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
+5. List of movies in 2020(https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
 
 
 
