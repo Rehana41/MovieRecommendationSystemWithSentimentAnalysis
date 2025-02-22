@@ -61,7 +61,8 @@ Create an account in https://www.themoviedb.org/, click on the API link from the
 6.Go to your browser and type http://127.0.0.1:5000/ in the address bar.
 Hurray! That's it.
 
-## Architecture 
+## Architecture
+![Image](https://github.com/user-attachments/assets/9751c5b2-641e-44d6-9f95-cdff725f9e4b)
 
 
 
