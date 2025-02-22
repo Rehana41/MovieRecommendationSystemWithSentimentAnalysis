@@ -71,9 +71,19 @@ It is a numerical value ranges between zero to one which helps to determine how 
 
 ## How Cosine Similarity works?
 Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The cosine similarity is advantageous because even if the two similar documents are far apart by the Euclidean distance (due to the size of the document), chances are they may still be oriented closer together. The smaller the angle, higher the cosine similarity.
+
+
 ![Image](https://github.com/user-attachments/assets/41c18c07-e4ba-4557-a44c-3c7a3ab5c7f0)
 
+
 More about Cosine Similarity : [Understanding the Math behind Cosine Similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/)
+
+## Sources of the datasets
+1. IMDB 5000 Movie Datasethttps://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
+2. The Movies Datasethttps://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+3. List of movies in 2018https://en.wikipedia.org/wiki/List_of_American_films_of_2018
+4. List of movies in 2019https://en.wikipedia.org/wiki/List_of_American_films_of_2019
+5. List of movies in 2020https://en.wikipedia.org/wiki/List_of_American_films_of_2020
 
 
 
